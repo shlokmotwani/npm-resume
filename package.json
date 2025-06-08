@@ -17,5 +17,6 @@
     "boxen": "^8.0.1",
     "chalk": "^5.4.1",
     "nodemon": "^3.1.10"
-  }
+  },
+  "readme": "README.md"
 }
