@@ -1,6 +1,7 @@
 export const user = {
   name: "Shlok Motwani",
   title: "Full Stack Developer",
+  email: "shlokcodes@gmail.com",
   linkedin_url: "https://linkedin.com/in/shlokmotwani",
   github_url: "https://github.com/shlokmotwani",
   skills: ["JavaScript", "Node.js", "React", "SQL", "Webpack", "Prisma"],
