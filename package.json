@@ -1,0 +1,17 @@
+{
+  "name": "shlokmotwani",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dummy.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shlok Motwani",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "nodemon": "^3.1.10"
+  }
+}
