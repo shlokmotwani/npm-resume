@@ -1,12 +1,16 @@
 {
   "name": "shlokmotwani",
   "version": "1.0.0",
-  "description": "",
-  "main": "dummy.js",
+  "description": "Shlok Motwani's Resume",
+  "main": "index.js",
+   "bin": {
+    "shlokmotwani": "./index.js"
+  },
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+   "keywords": ["cli", "resume", "shlok", "motwani", "developer"],
   "author": "Shlok Motwani",
   "license": "ISC",
   "dependencies": {
