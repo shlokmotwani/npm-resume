@@ -17,9 +17,9 @@ ${user.skills.join(", ")}
 📈 ${chalk.bold("Experience:")}
 ${user.experience
   .map((exp) => {
-    return `\n- ${chalk.green(exp.organization)} - ${exp.role} (${
-      exp.from
-    } - ${exp.to})`;
+    return `\n- ${chalk.green(exp.organization)} - ${exp.role} (${exp.from} - ${
+      exp.to
+    })`;
   })
   .join("")}
 
